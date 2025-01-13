@@ -31,7 +31,7 @@ function HomepageHeader() {
 
         <span className={styles.message}>AI based process <b>Integration</b> and <b>Automation</b> Platform.</span>
         <br /><br />
-        <p className="hero__subtitle">Create and operate enterprise ready business solutions on a cloud native AI Platform. </p>
+        <p className="hero__subtitle">Create and operate business solutions on a cloud native AI Platform - hosted in Germany. </p>
         <br />
         <div className={styles.buttons}>
           <Link

@@ -1,0 +1,1 @@
+The documentation has been moved to the [PIPEFORCE Academy](https://logabit.atlassian.net/wiki/spaces/PA).
