@@ -36,8 +36,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://logabit.atlassian.net/wiki/spaces/PA/pages/2543353860">
-            Documentation
+            to="https://logabit.atlassian.net/wiki/spaces/PA">
+            Go to Documentation Wiki
           </Link>
           &nbsp; &nbsp; 
           <Link

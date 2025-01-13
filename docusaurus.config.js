@@ -56,29 +56,24 @@ const config = {
           src: 'img/pipeforce-logo-150w.png',
         },
         items: [
-          /** 
+          /**
           {
             type: 'docsVersionDropdown',
           },**/
           {
             href: 'https://logabit.atlassian.net/wiki/spaces/PA/pages/2543353860',
             position: 'left',
-            label: 'Documentation',
+            label: 'Getting Started',
           },
           {
-            href: 'https://logabit.atlassian.net/wiki/display/PA/customcontent/list/ac%3Acom.mute.confluence.plugins.lms%3Acourse-type',
+            href: 'https://logabit.atlassian.net/wiki/spaces/PA/pages/3162931201',
             position: 'left',
             label: 'Tutorials',
           },
           {
-            href: 'http://docs.pipeforce.org/api.html',
+            href: 'https://pipeforce.github.io/redoc.html',
             position: 'left',
-            label: 'API',
-          },
-          /**{to: '/blog', label: 'News', position: 'left'},**/
-          {
-            href: 'https://logabit.atlassian.net/wiki/spaces/PA/pages/2548400545',
-            label: 'Downloads',
+            label: 'REST API',
           },
           {
             position: 'right',
@@ -94,12 +89,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorials',
-                href: 'https://logabit.atlassian.net/wiki/display/PA/customcontent/list/ac%3Acom.mute.confluence.plugins.lms%3Acourse-type',
+                label: 'Wiki',
+                href: 'https://logabit.atlassian.net/wiki/spaces/PA',
               },
               {
-                label: 'FAQ',
-                href: 'https://logabit.atlassian.net/wiki/spaces/PA/pages/2548400531/FAQ',
+                label: 'REST API',
+                href: 'https://pipeforce.github.io/redoc.html',
               },
             ],
           },
@@ -120,7 +115,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'News',
+                label: 'Blog',
                 to: 'https://pipeforce.io/blog/',
               },
               {

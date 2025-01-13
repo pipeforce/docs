@@ -4,29 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Integrate.',
+    title: 'Integration',
     image: '/img/app-presentation-01-image-03.png',
     description: (
       <>
-        Connect systems and data. <br/>PIPEFORCE comes with connectors, messaging queues, data pipelines and <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/2545614916/Data+Mapping+and+Transformation" target="_blank">more...</a> 
+        PIPEFORCE comes with connectors, messaging and data pipelines to integrate with any data from any system. <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/2545614916" target="_blank">More...</a>
       </>
     ),
   },
   {
-    title: 'Automate.',
-    image: '/img/app-presentation-01-image-02.png',
-    description: (
-      <>
-       Digitize and automate business processes. <br/>PIPEFORCE comes with triggers, workflows, forms, lists and <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/2542796840/Command+and+Pipeline" target="_blank">more...</a>
-      </>
-    ),
-  },
-  {
-    title: 'Monitor.',
+    title: 'Automation',
     image: '/img/app-presentation-01-image-04.png',
     description: (
       <>
-        Monitor and analyze data. <br/>PIPEFORCE has integrated distributed tracing across services, reportings and <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/2548465885/Logging+Tracing+and+Monitoring" target="_blank">more...</a>
+       PIPEFORCE includes triggers, workflows, forms, lists to streamline your automation solutions. <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/2542796840" target="_blank">More...</a>
+      </>
+    ),
+  },
+  {
+    title: 'AI',
+    image: '/img/app-presentation-01-image-02.png',
+    description: (
+      <>
+        PIPEFORCE comes with a rich AI support to speed-up your automation and integration tasks to a new level.  <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/3209068546" target="_blank">More...</a>
       </>
     ),
   },
