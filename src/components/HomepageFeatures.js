@@ -26,7 +26,7 @@ const FeatureList = [
     image: '/img/app-presentation-01-image-02.png',
     description: (
       <>
-        PIPEFORCE comes with a rich AI support to speed-up your automation and integration tasks to a new level.  <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/3209068546" target="_blank">More...</a>
+        PIPEFORCE comes with rich AI support to speed-up your automation and integration tasks to a new level.  <a href="https://logabit.atlassian.net/wiki/spaces/PA/pages/3209068546" target="_blank">More...</a>
       </>
     ),
   },

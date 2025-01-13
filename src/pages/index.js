@@ -29,9 +29,9 @@ function HomepageHeader() {
         </div>
       </div> */}
 
-        <span className={styles.message}>Open <b>Integration</b> and <b>Automation</b> Platform.</span>
+        <span className={styles.message}>AI based process <b>Integration</b> and <b>Automation</b> Platform.</span>
         <br /><br />
-        <p className="hero__subtitle">Develop and operate message-driven business solutions using cloud native and AI. </p>
+        <p className="hero__subtitle">Create and operate enterprise ready business solutions on a cloud native AI Platform. </p>
         <br />
         <div className={styles.buttons}>
           <Link
